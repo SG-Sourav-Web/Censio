@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873731431766",
+    "project_id": "censio-56c2f",
+    "storage_bucket": "censio-56c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873731431766:android:3760208e83e2c47e600af7",
+        "android_client_info": {
+          "package_name": "com.example.censio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873731431766-iork1hapknmngogn4g5o84toou8bq7ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXmQRPzqxLzG06JoxUNC1TzvxXHDw0_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873731431766-iork1hapknmngogn4g5o84toou8bq7ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
